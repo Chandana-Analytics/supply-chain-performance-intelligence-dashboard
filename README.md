@@ -62,7 +62,9 @@ Project Documentation
 Dashboard Screenshots
 
 ## Dashboard Preview
+
 ### Executive Overview
+![Executive Overview](04_Dashboard_Screenshots/01_Executive_Overview.png)
 
 
 
