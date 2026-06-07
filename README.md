@@ -66,6 +66,11 @@ Dashboard Screenshots
 ### Executive Overview
 ![Executive Overview](04_Dashboard_Screenshots/01_Executive_Overview.png)
 
+### Business Performance Analysis
+![Business Performance Analysis](04_Dashboard_Screenshots/02_Business_Performance_Analysis.png)
+
+### Operational Performance Analysis
+![Operational Performance Analysis](04_Dashboard_Screenshots/03_Operational_Performance_Analysis.png)
 
 
 
