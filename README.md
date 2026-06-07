@@ -1,4 +1,5 @@
 # supply-chain-performance-intelligence-dashboard
+
 Interactive Excel dashboard analyzing sales, profitability, and delivery performance to generate actionable supply chain insights.
 
 ## Project Overview
@@ -16,50 +17,50 @@ To analyze supply chain performance across regions, products, markets, and shipp
 
 ## Tools & Techniques Used
 
-Microsoft Excel
-Data Cleaning
-Data Validation
-Pivot Tables
-Pivot Charts
-Slicers
-Calculated Metrics
-Conditional Formatting
-Dashboard Design
+- Microsoft Excel
+- Data Cleaning
+- Data Validation
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Calculated Metrics
+- Conditional Formatting
+- Dashboard Design
 
 ## Key Performance Indicators (KPIs)
 
-Total Sales
-Total Orders
-Average Profit Margin (%)
-Delay Rate (%)
-Cancellation Rate (%)
+- Total Sales
+- Total Orders
+- Average Profit Margin (%)
+- Delay Rate (%)
+- Cancellation Rate (%)
 
-(Note: Additional KPIs were calculated during analysis; key executive KPIs were selected for dashboard reporting.)
+**Note: **Additional KPIs were calculated during analysis; key executive KPIs were selected for dashboard reporting.
 
 ## Analysis Performed
 
-Regional Sales Performance Analysis
-Product Category Profitability Analysis
-Shipping Mode Delivery Performance Analysis
-Regional Delivery Risk Analysis
-Market-wise Profitability Analysis
+- Regional Sales Performance Analysis
+- Product Category Profitability Analysis
+- Shipping Mode Delivery Performance Analysis
+- Regional Delivery Risk Analysis
+- Market-wise Profitability Analysis
 
 ## Recommendations
 
-Investigate the causes of delivery delays in high-risk regions.
-Review shipping modes associated with lower delivery performance.
-Focus on expanding high-profit product categories.
-Develop region-specific strategies to improve operational efficiency.
-Continuously monitor key supply chain metrics to support data-driven decisions.
+- Investigate the causes of delivery delays in high-risk regions.
+- Review shipping modes associated with lower delivery performance.
+- Focus on expanding high-profit product categories.
+- Develop region-specific strategies to improve operational efficiency.
+- Continuously monitor key supply chain metrics to support data-driven decisions.
 
 ## Project Deliverables
 
-Interactive Excel Dashboard
-KPI Planning and Calculation Sheets
-Pivot-based Analytical Reports
-Data Dictionary
-Project Documentation
-Dashboard Screenshots
+- Interactive Excel Dashboard
+- KPI Planning and Calculation Sheets
+- Pivot-based Analytical Reports
+- Data Dictionary
+- Project Documentation
+- Dashboard Screenshots
 
 ## Dashboard Preview
 
