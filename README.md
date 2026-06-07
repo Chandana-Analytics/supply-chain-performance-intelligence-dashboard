@@ -35,7 +35,7 @@ To analyze supply chain performance across regions, products, markets, and shipp
 - Delay Rate (%)
 - Cancellation Rate (%)
 
-** Note: ** Additional KPIs were calculated during analysis; key executive KPIs were selected for dashboard reporting.
+ Note: Additional KPIs were calculated during analysis; key executive KPIs were selected for dashboard reporting.
 
 ## Analysis Performed
 
